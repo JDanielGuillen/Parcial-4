@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\bin\Debug\CapaActualizar.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\bin\Debug\CapaActualizar.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\bin\Debug\CapaActualizar.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\obj\Debug\CapaActualizar.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\obj\Debug\CapaActualizar.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\obj\Debug\CapaActualizar.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\obj\Debug\CapaActualizar.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\obj\Debug\CapaActualizar.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\CapaActualizar\obj\Debug\CapaActualizar.pdb

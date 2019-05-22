@@ -1,0 +1,10 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\bin\Debug\Parcial4Mant.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\bin\Debug\Parcial4Mant.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\bin\Debug\Parcial4Mant.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\Parcial4Mant\obj\Debug\Parcial4Mant.pdb

@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\bin\Debug\capaBorrar.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\bin\Debug\capaBorrar.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\bin\Debug\capaBorrar.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\obj\Debug\capaBorrar.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\obj\Debug\capaBorrar.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\obj\Debug\capaBorrar.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\obj\Debug\capaBorrar.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\obj\Debug\capaBorrar.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial4Mant\capaBorrar\obj\Debug\capaBorrar.pdb
